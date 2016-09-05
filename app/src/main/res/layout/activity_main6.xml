@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView6"
+        android:background="@drawable/f"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="仙女山：国家AAAAA级风景区，国家森林公园，重庆十佳旅游景点。
+仙女山位于重庆市武隆县境乌江北岸，地属武陵山脉，距重庆市主城区180公里，海拔2033米，拥有森林33万亩，天然草原10万亩，夏季平均气温24度。以其江南独具魅力的高山草原，南国罕见的林海雪原，青幽秀美的丛林碧野景观，被誉为“南国第一牧原”和“东方瑞士”，其旖旎美艳的森林草原风光在重庆独树一帜。
+仙女山冬季白雪皑皑、银妆纱裹，雾松、冰瀑令人情潮涌动，是重庆周边观赏雪景、开展雪上运动的绝佳旅游胜地；夏季茫茫林海，清风吹拂，凉爽宜人，平均气温比重庆主城区低15度，有“山城夏宫”之美誉。
+仙女山与神奇的芙蓉洞、秀美的芙蓉江、世界最大的天生三硚群地质奇观，组合为重庆最佳旅游观光度假胜地，仙女山与江津石门镇的石笋山堪称重庆二绝。"
+        android:id="@+id/textView5"
+        android:textStyle="bold"
+        android:padding="10dp"/>
+
+</LinearLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView3"
+        android:background="@drawable/c"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="洋人街实际是美心长江风景区的一部分，目前景区拥有洋人酒吧街、婚庆园、乱吼一条街、世界最牛厕所、影视星工厂、清明上河图、北京四合院、庙会嘉年华、水军训练营、旧金山花街等各具特色的商业、休闲、娱乐项目。"
+        android:textStyle="bold"
+        android:id="@+id/textView2"
+        android:padding="10dp"/>
+
+</LinearLayout>

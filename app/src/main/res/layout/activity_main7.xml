@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView7"
+        android:background="@drawable/g"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="磁器口古镇位于重庆市沙坪坝区嘉陵江畔，始建于宋代，面积1.5平方公里，东临嘉陵江，南接沙坪坝，西界童家桥，北靠石井坡，距主城区3公里，是历经千年变迁而保存至今的重庆市重点保护传统街。
+磁器口古镇拥有“一江两溪三山四街”的独特地貌。马鞍山踞其中，金碧山蹲其左，凤凰山昂其右，三山遥望，两谷深切。凤凰、清水双溪潆洄并出，嘉陵江由北而奔，江宽岸阔，水波不兴，实为天然良巷。作为嘉陵江边重要的水陆码头，曾经“白日里千人拱手，入夜后万盏明灯”繁盛一时，被赞誉为“小重庆”，是重温老重庆旧梦的好去处。"
+        android:id="@+id/textView6"
+        android:textStyle="bold"
+        android:padding="10dp"/>
+</LinearLayout>

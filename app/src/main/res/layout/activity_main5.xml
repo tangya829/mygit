@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView5"
+        android:background="@drawable/e"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="重庆武隆天生三桥风景区位于重庆市的武隆县城东南20公里处，武隆至仙女山高速水泥标美路旁，距南国草原仙女山约15公里，距天下第一洞芙蓉洞仅30公里，是全国罕见的地质奇观生态型旅游区。"
+        android:id="@+id/textView4"
+        android:textStyle="bold"
+        android:padding="10dp"/>
+
+</LinearLayout>

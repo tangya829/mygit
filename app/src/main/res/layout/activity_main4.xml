@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView4"
+        android:background="@drawable/d"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="黑山谷风景区原始生态风景由峻岭、峰林、幽峡、峭壁、森林、竹海、飞瀑、碧水、溶洞、仿古栈道、浮桥、云海、田园、原始植被、珍稀动植物等各具特色的景观组成。从景区大门进入，沿河而下至响水村一段，河谷宽约40——50米，沿河有平缓地，上面是森林和山地，呈阶梯状地形河谷断面呈“V”字形，河面狭窄。"
+        android:id="@+id/textView3"
+        android:textStyle="bold"
+        android:padding="10dp"/>
+
+</LinearLayout>
